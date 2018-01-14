@@ -1,0 +1,3 @@
+export const TEST_ADD_ACTION = 'TEST_ADD_ACTION'
+
+export const TEST_ADD_REQUEST = 'TEST_ADD_REQUEST'
